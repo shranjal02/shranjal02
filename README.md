@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shranjal</h1>
 <h3 align="center">A Girl Trying to Figure-Out Stuff!!</h3>
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642/computer.gif"
+img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1zfcfPVF0c__z1rLYIS3XfTuKmG8vg3GV/view?usp=share_link"
 
 - 🔭 I've work experience as a **Development Intern**
 
