@@ -15,7 +15,11 @@
 
 - 📫 How to reach me **agrawalshranjal@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ecpvkzp2VreeS2F08jEDWrVE5ONBzN4m/view](https://drive.google.com/file/d/1Ecpvkzp2VreeS2F08jEDWrVE5ONBzN4m/view)
+- 📄 Know about my experiences : 
+
+- 👋 [Check Out My Resume](https://drive.google.com/file/d/1Ecpvkzp2VreeS2F08jEDWrVE5ONBzN4m/view)
+
+- 👋 [Check Out My LinkedIn Profile](https://www.linkedin.com/in/shranjal-agrawal-539337203/)
 
 - ⚡ Fun fact **I wake up early.**
 
