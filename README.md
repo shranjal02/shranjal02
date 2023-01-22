@@ -5,7 +5,7 @@
 
 - 🌱 I've work experience as a **Development Intern**
 
-- 🌱 Projects **HTML, CSS, JavaScript, ReactJS, NodeJS.**
+- 🌱 Tech Stack **HTML, CSS, JavaScript, ReactJS, NodeJS.**
 
 - 🔭 Project 1 [Smile Foundation Website](https://shranjal02.github.io/SparksTask/)
 
