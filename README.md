@@ -2,7 +2,8 @@
 <h3 align="center">A Girl Trying to Figure-Out Stuff!!</h3>
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-- 🔭 I've work experience as a **Development Intern**
+
+- 🌱 I've work experience as a **Development Intern**
 
 - 🌱 Projects **HTML, CSS, JavaScript, ReactJS, NodeJS.**
 
