@@ -7,9 +7,7 @@
 
 - 🌱 Tech Stack **HTML, CSS, JavaScript, ReactJS, NodeJS.**
 
-- 🔭 Project 1 [Smile Foundation Website](https://shranjal02.github.io/SparksTask/)
-
-- 🔭 Project 2 [Google Keep](https://shranjal02.github.io/Google-Keep//)
+- 🔭 My Full Stack Project [Chatify][https://github.com/shranjal02/Chatify](https://github.com/shranjal02/Chatify)
 
 - 👨‍💻 All of my projects are available at [https://github.com/shranjal02](https://github.com/shranjal02)
 
