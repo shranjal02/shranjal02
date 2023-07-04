@@ -7,7 +7,7 @@
 
 - 🌱 Tech Stack **HTML, CSS, JavaScript, ReactJS, NodeJS.**
 
-- 🔭 My Full Stack Project [Chatify][https://github.com/shranjal02/Chatify](https://github.com/shranjal02/Chatify)
+- 🔭 My Full Stack Project [https://github.com/shranjal02/Chatify](https://github.com/shranjal02/Chatify)
 
 - 👨‍💻 All of my projects are available at [https://github.com/shranjal02](https://github.com/shranjal02)
 
