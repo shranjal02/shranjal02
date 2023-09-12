@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **I wake up early.**
 
-  <p><img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=shranjal02" alt="" ></p>
+  <p><img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=shranjal02" alt="" /></p>
 
 
 
