@@ -22,6 +22,6 @@
 - 👋 [Check Out My LinkedIn Profile](https://www.linkedin.com/in/shranjal-agrawal-539337203/)
 
 - ⚡ Fun fact **I wake up early.**
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shranjal02" alt="shranjal02" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shranjal02" alt="shranjal02" /></p>
 
 
