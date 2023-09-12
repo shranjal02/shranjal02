@@ -3,9 +3,9 @@
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🌱 I've work experience as a **Development Intern**
+- 🌱 I've worked experience as a **Development Intern**
 
-- 🌱 Tech Stack **HTML, CSS, JavaScript, ReactJS, NodeJS.**
+- 🌱 Tech Stack **HTML, CSS, JavaScript, ReactJS, NodeJS, Express, MongoDB.**
 
 - 🔭 My Full Stack Project [https://github.com/shranjal02/Chatify](https://github.com/shranjal02/Chatify)
 
