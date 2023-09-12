@@ -23,4 +23,4 @@
 
 - ⚡ Fun fact **I wake up early.**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shranjal02&" alt="shranjal02" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shranjal02" alt="shranjal02" /></p>
