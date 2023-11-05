@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences : 
 
-- 👋 [Check Out My Resume](https://drive.google.com/file/d/1Ecpvkzp2VreeS2F08jEDWrVE5ONBzN4m/view)
+- 👋 [Check Out My Resume](https://drive.google.com/file/d/1iJoPjANzwF4WrPfWTIPj2Hmld_FNS7lc/view)
 
 - 👋 [Check Out My LinkedIn Profile](https://www.linkedin.com/in/shranjal-agrawal-539337203/)
 
