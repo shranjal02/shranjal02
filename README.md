@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🌱 I've worked experience as a **Software Engineer Intern**
+- 🌱 Currently Working as **SDE 1 @GreyTip Software**
 
 - 🌱 Tech Stack **HTML, CSS, JavaScript, ReactJS, NodeJS, Express, MongoDB.**
 
