@@ -17,8 +17,6 @@
 
 - 📄 Know about my experiences : 
 
-- 👋 [Check Out My Resume](https://drive.google.com/file/d/1gY9Z7qnj9-bFvyEuqCTTVc3m-eQd7dfc/view?usp=drive_link)
-
 - 👋 [Check Out My LinkedIn Profile](https://www.linkedin.com/in/shranjal-agrawal-539337203/)
 
 - ⚡ Fun fact **I wake up early.**
